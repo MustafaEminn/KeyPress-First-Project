@@ -1,0 +1,148 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 500px;
+}
+header{
+    height: 80px;
+    border-bottom: 2px solid black;
+}
+ul{
+    list-style-type: none;  
+    margin-right: 20px;
+    margin-top: 20px;
+    float: right;
+}
+ul li a{
+    margin-right: 30px;
+    margin-top: 0px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    list-style-type: none;
+    color: black;
+    padding: 10px;
+}
+.logo{
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    display: inline-block;
+}
+.box{
+    display: flex;
+    margin-top: 490px;
+    justify-content: center;
+}
+.box #box-1{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
+.box #box-2{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
+.box #box-3{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
+.box #box-4{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
+.box #box-5{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
+.box #box-6{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
+.box #box-7{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
+.box #box-8{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
+.box #box-9{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
+.box #box-10{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: black;
+    font-size: 56px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    margin-left:10px;
+}
